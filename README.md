@@ -6,6 +6,7 @@ This project demonstrates a simple Kubernetes deployment using:
 - Minikube for local development
 
 📁 Project Structure
+
 K8S-DEMO/
 ├── mongo-config.yml # ConfigMap for MongoDB connection URL
 ├── mongo-secret.yml # Kubernetes Secret (excluded values)
