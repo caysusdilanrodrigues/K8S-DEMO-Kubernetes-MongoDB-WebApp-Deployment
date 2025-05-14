@@ -7,11 +7,11 @@ This project demonstrates a simple Kubernetes deployment using:
 
 📁 Project Structure
 
-K8S-DEMO/
-├── mongo-config.yml # ConfigMap for MongoDB connection URL
-├── mongo-secret.yml # Kubernetes Secret (excluded values)
-├── mongo.yml # MongoDB Deployment and Service
-├── webapp.yml # Web Application Deployment and Service
+    K8S-DEMO/
+     ├── mongo-config.yml # ConfigMap for MongoDB connection URL
+     ├── mongo-secret.yml # Kubernetes Secret (excluded values)
+     ├── mongo.yml # MongoDB Deployment and Service
+     ├── webapp.yml # Web Application Deployment and Service
 
 ⚙️ Prerequisites
 
